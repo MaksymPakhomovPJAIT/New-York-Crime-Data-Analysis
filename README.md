@@ -1,7 +1,7 @@
 # New-York-Crime-Data-Analysis  
 
 ## Project Overview  
-This project analyzes crime data in New York City across different districts and builds a predictive model to estimate crime rates based on date and time. The analysis provides insights into crime trends, patterns, and correlations with temporal factors.  
+This group project analyzes crime data in New York City across different districts and builds a predictive model to estimate crime rates based on date and time. The analysis provides insights into crime trends, patterns, and correlations with temporal factors.  
 
 ## Key Features  
 - **Crime Trend Analysis:** Identifying seasonal and hourly crime patterns.  
